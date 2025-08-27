@@ -1,2 +1,2 @@
 # Plan-Mantenimiento-Integral
-Repositorio oficial del Plan Maestro de Mantenimiento Integral
+Carga inicial del Plan de Mantenimiento Integral de Infraestructura
